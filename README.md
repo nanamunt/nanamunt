@@ -1,4 +1,4 @@
-Hi, I’m @nanamunt aka Sirikarn Fugsrimuang but you can call me mint!
+Hi, I’m @nanamunt aka Sirikarn Fugsrimuang,but you can call me mint!
 
 I just start in erhh coding.
 ✨𝑐ℎ𝑢𝑙𝑎108 CEDT02✨
