@@ -1,6 +1,9 @@
-<h3>Hi, I’m @nanamunt aka Sirikarn Fugsrimuang,but you can call me mint!</h3>
+<h3>Hello I'm mint (Sirikarn Fugsrimuang)</h3>
+<h2>Welcom To My Github</h2>
 
-✨𝑐ℎ𝑢𝑙𝑎108 CEDT02✨
+
+I'm 19 Years old.
+Bachelor of Computer Enginnering and Digital Technology Chulalongkorn University
 
 <!---
 nanamunt/nanamunt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
