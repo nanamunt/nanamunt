@@ -2,3 +2,4 @@
 
 + Bachelor of Computer Enginnering and Digital Technology Chulalongkorn University
 + I'm 19 Years old.
+..
